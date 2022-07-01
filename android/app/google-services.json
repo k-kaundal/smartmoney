@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813754941979",
+    "project_id": "smartmoney-2b043",
+    "storage_bucket": "smartmoney-2b043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813754941979:android:352ce8df2e6172b1b82ebe",
+        "android_client_info": {
+          "package_name": "com.whlinks6633.smartmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813754941979-c1gp9u1536jkdi48qk63kb6l3dkvpfgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjS_563__u_Os1SsHGoLDVk7U8GihvNT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813754941979-c1gp9u1536jkdi48qk63kb6l3dkvpfgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
